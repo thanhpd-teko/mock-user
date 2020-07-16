@@ -1,28 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profiles": {
-    "code": "string",
-    "result": {
-      "profiles": {
-        "profileId": "string",
-        "userId": "test",
-        "clientCode": "string",
-        "name": "string",
-        "email": "user@example.com",
-        "telephone": "string",
-        "sex": "M",
-        "dob": "2020-04-22",
-        "userGroups": ["vinmart_employee", "test"]
-        }
+  "users": [
+    {
+      "id": 1,
+      "userName": "thanhpd56",
+      "email": "thanh.pd@teko.vn",
+      "phone": "495849584",
+      "fullName": "Phan Thành",
+      "status": 1,
+      "isSuper": true
+    },
+    {
+      "id": 2,
+      "userName": "thuannd",
+      "email": "thuan.nd@teko.vn",
+      "phone": "495849584",
+      "fullName": "Nguyễn Thuần",
+      "status": 1,
+      "isSuper": true
     }
-  }
+  ]
 }
-

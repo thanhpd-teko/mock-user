@@ -1,20 +1,22 @@
-[
-  {
-    "id": 1,
-    "userName": "thanhpd56",
-    "email": "thanh.pd@teko.vn",
-    "phone": "495849584",
-    "fullName": "Phan Thành",
-    "status": 1,
-    "isSuper": true
-  },
-  {
-    "id": 2,
-    "userName": "thuannd",
-    "email": "thuan.nd@teko.vn",
-    "phone": "495849584",
-    "fullName": "Nguyễn Thuần",
-    "status": 1,
-    "isSuper": true
-  }
-]
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "thanhpd56",
+      "email": "thanh.pd@teko.vn",
+      "phone": "495849584",
+      "fullName": "Phan Thành",
+      "status": 1,
+      "isSuper": true
+    },
+    {
+      "id": 2,
+      "userName": "thuannd",
+      "email": "thuan.nd@teko.vn",
+      "phone": "495849584",
+      "fullName": "Nguyễn Thuần",
+      "status": 1,
+      "isSuper": true
+    }
+  ]
+}

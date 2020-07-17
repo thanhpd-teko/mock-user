@@ -7,40 +7,45 @@
       "phone": "495849584",
       "fullName": "Phan Thành",
       "status": 1,
+      "createdAt": 1594977658,
       "isSuper": true
     },
-     {
+    {
       "id": 1,
       "userName": "thanhpd56",
       "email": "thanh.pd@teko.vn",
       "phone": "495849584",
       "fullName": "Phan Thành1",
       "status": 1,
+      "createdAt": 1594977658,
       "isSuper": true
     },
-     {
+    {
       "id": 2,
       "userName": "thanhpd56",
       "email": "thanh.pd@teko.vn",
       "phone": "495849584",
       "fullName": "Phan Thành2",
-      "status":0,
+      "createdAt": 1594977658,
+      "status": 0,
       "isSuper": true
     },
-     {
+    {
       "id": 3,
       "userName": "thanhpd56",
       "email": "thanh.pd@teko.vn",
       "phone": "495849584",
       "fullName": "Phan Thành3",
+      "createdAt": 1594977658,
       "status": 1,
       "isSuper": true
     },
-     {
+    {
       "id": 4,
       "userName": "thanhpd56",
       "email": "thanh.pd@teko.vn",
       "phone": "495849584",
+      "createdAt": 1594977658,
       "fullName": "Phan Thành4",
       "status": 0,
       "isSuper": true
@@ -51,6 +56,7 @@
       "email": "thuan.nd@teko.vn",
       "phone": "495849584",
       "fullName": "Nguyễn Thuần",
+      "createdAt": 1594977658,
       "status": 1,
       "isSuper": true
     }

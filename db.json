@@ -1,44 +1,49 @@
 {
-    "code": "USI000S",
-    "message": "Success",
-    "result": {
+  "responses": [
+    {
+      "id": 1,
+      "code": "USI000S",
+      "message": "Success",
+      "result": {
         "profile": {
-            "dob": null,
-            "billing": null,
-            "telephone": "0866433199",
-            "email": "thuan.nd@teko.vn",
+          "dob": null,
+          "billing": null,
+          "telephone": "0866433199",
+          "email": "thuan.nd@teko.vn",
+          "clientCode": "vnshop",
+          "userId": "7ad220626bee4991a25ffd28d149d8b2",
+          "id": "10d2fa9c-5b54-4d09-ac63-5d2e4e4f92b9",
+          "sex": null,
+          "address": {
+            "telephone": "0866433100",
+            "email": null,
+            "provinceName": "Thành phố Hà Nội",
             "clientCode": "vnshop",
+            "districtCode": "0115",
             "userId": "7ad220626bee4991a25ffd28d149d8b2",
-            "id": "10d2fa9c-5b54-4d09-ac63-5d2e4e4f92b9",
-            "sex": null,
-            "address": {
-                "telephone": "0866433100",
-                "email": null,
-                "provinceName": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
-                "clientCode": "vnshop",
-                "districtCode": "0115",
-                "userId": "7ad220626bee4991a25ffd28d149d8b2",
-                "wardName": "Ph\u01b0\u1eddng C\u1ed5 Nhu\u1ebf 2",
-                "id": "82494a8b-50a8-4e95-a86b-7c0e98fd1ac0",
-                "address": "aa",
-                "latitude": null,
-                "longitude": null,
-                "name": "Nguyen duc thuan",
-                "wardCode": "011511",
-                "provinceCode": "01",
-                "isDefault": true,
-                "districtName": "Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam",
-                "addressNote": ""
-            },
-            "name": "Nguy\u1ec5n \u0110\u1ee9c Thu\u1ea7n",
-            "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mAcNF7lSav6C66zAt4lp3xi6JcxzOtIP4hCYvTY",
-            "payment": {
-                "accountingId": null,
-                "paymentPartner": "VNPAY",
-                "id": "3c1e0a57-96ef-477b-b6a7-8b5929a05b61",
-                "method": "MOBILE BANKING",
-                "bank": "VIETCOMBANK"
-            }
+            "wardName": "Phường Cổ Nhuế 2",
+            "id": "82494a8b-50a8-4e95-a86b-7c0e98fd1ac0",
+            "address": "aa",
+            "latitude": null,
+            "longitude": null,
+            "name": "Nguyen duc thuan",
+            "wardCode": "011511",
+            "provinceCode": "01",
+            "isDefault": true,
+            "districtName": "Quận Bắc Từ Liêm",
+            "addressNote": ""
+          },
+          "name": "Nguyễn Đức Thuần",
+          "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mAcNF7lSav6C66zAt4lp3xi6JcxzOtIP4hCYvTY",
+          "payment": {
+            "accountingId": null,
+            "paymentPartner": "VNPAY",
+            "id": "3c1e0a57-96ef-477b-b6a7-8b5929a05b61",
+            "method": "MOBILE BANKING",
+            "bank": "VIETCOMBANK"
+          }
         }
+      }
     }
+  ]
 }
